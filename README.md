@@ -17,16 +17,17 @@ You can visit the app by clicking this link: [Access App](https://reluviaris-tas
 
 ## 🧰 Tools
 
-- [NodeJS](https://nodejs.org/en/)
-- [Express](https://expressjs.com/pt-br/)
-- [node-postgres](https://pub.dev/packages/url_launcher)
+- [React](https://pt-br.reactjs.org/)
+- [node-sass](https://www.npmjs.com/package/node-sass)
+- [@fortawesome/fontawesome-svg-core](https://github.com/FortAwesome/react-fontawesome)
+- [@fortawesome/free-solid-svg-icons](https://www.npmjs.com/package/@fortawesome/free-solid-svg-icons)
 
 ## 👩‍🏫 Getting Started
 
 - Cloning Project
-  - `git clone https://github.com/reluviari/merchants-node`
-- Cloning Project Frontend - React
-  - `git clone https://github.com/reluviari/merchants-react`
+  - `git clone https://github.com/reluviari/task-manager-react`
+- Cloning Project Backend - Rails
+  - `git clone https://github.com/reluviari/task-manager-react-api-rails`
 - Install packages
   - `yarn install`
  
