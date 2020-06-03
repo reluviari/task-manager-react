@@ -3,7 +3,7 @@
 </h1> 
 
 <p align="center">
-  CLIENT REACT - Integrating RAILS API with REACTCLIENT
+  CLIENT REACT - Integrating RAILS API with REACT CLIENT
 </p> 
 
 ## 📌 Link to App
