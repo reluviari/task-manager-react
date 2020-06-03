@@ -11,9 +11,11 @@
 You can visit the app by clicking this link: [Access App](https://reluviaris-task-manager-react.herokuapp.com/).
 
 ## ✅ Features
-   - Add merchant
-   - Delete merchant
-   - List merchant
+   - Lists pending and completed tasks
+   - Add task
+   - Mark tasks pending to done
+   - Delete task
+   - Delete all completed tasks
 
 ## 🧰 Tools
 
