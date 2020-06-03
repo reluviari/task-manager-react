@@ -1,9 +1,9 @@
 <h1 align="center">
-  <strong>Merchants List - Backend</strong>
+  <strong>Task Manager React - Frontend</strong>
 </h1> 
 
 <p align="center">
-  Learn how NodeJS and Express can interact with PostgreSQL.
+  CLIENT REACT - Integrating RAILS API with REACT CLIENT
 </p> 
 
 ## Link to App
